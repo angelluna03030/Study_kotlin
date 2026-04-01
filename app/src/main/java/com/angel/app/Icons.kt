@@ -10,9 +10,4 @@ import androidx.test.espresso.base.Default
 @Preview
 @Composable
 fun Icons(){
-   Icon(
-       imageVector = Icons.Default.Person,
-       contentDescription = "Icon persona",
-
-   )
 }
