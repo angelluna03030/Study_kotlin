@@ -11,7 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 
-//** es como la columna pero el lazy column es mas potente
+//** es como la columna, pero el lazy column es más potente
 //** solo se muestra o renderiza los elemnetos visibles en la pantalla
 // lazy de forma perresosa
 
